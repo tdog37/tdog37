@@ -28,7 +28,7 @@ I’m passionate about **analytics-driven decision-making** in the entertainment
 I’m currently expanding my expertise in **React** and other modern web technologies to build scalable, user-focused applications. My goal is to stay at the forefront of technological innovation to better serve the creative industry.
 
 ### 🌍 Let’s Connect!
-- **LinkedIn**: [[linkedin.com/in/tim-safford](https://linkedin.com/in/tim-safford](https://www.linkedin.com/in/tim-safford-2434871/))   
+- **LinkedIn**:[ [[linkedin.com/in/tim-safford](https://linkedin.com/in/tim-safford](https://www.linkedin.com/in/tim-safford-2434871/))   ](https://www.linkedin.com/in/tim-safford-2434871/)
 - **Portfolio**: [mysticartpictures.com](https://mysticartpictures.com)
 
 ---

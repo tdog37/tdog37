@@ -23,6 +23,7 @@ I’m passionate about **analytics-driven decision-making** in the entertainment
 1. **Reimagining AuditionList.io**: Transforming it into an **AI-powered casting platform** that connects creators with talent, focusing on results-driven campaigns.
 2. **AI-Powered Outreach Systems**: Developing tools to create custom, platform-specific outreach strategies for shows, boosting awareness and streamlining talent discovery.
 3. **Social Media Integration**: Building features that pull photos and videos directly from applicants’ social profiles for seamless presentations to executives.
+4. **MysticArt Pictures**: The worls premiere unscripted casting company. Leading in innovation and character development.
 
 ### 🛠️ Always Learning
 I’m currently expanding my expertise in **React** and other modern web technologies to build scalable, user-focused applications. My goal is to stay at the forefront of technological innovation to better serve the creative industry.

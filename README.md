@@ -11,8 +11,8 @@ My work merges the art of casting with cutting-edge technology. I’m currently 
 
 ### 💻 Tech Skills
 - **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Python, Express.js
-- **Database:** MongoDB, MySQL
+- **Backend:** Node.js, Python, Express.js, PHP, WMH/Cpanel
+- **Database:** MongoDB, MySQL, Postgre
 - **Other Tools:** Tailwind CSS, REST APIs, Git, AI/ML tools
 - **Focus Areas:** UX/UI Design, Full Stack Development, AI Integration, Data Analytics, Automation
 
